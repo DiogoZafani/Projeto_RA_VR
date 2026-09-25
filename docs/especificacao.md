@@ -2,7 +2,7 @@ Especificação do Projeto — Ambiente Mobiliado em Escala Real
 1. Identificação do grupo e da cena
 
 Grupo: Grupo Projeto 3
-Integrantes: [Nome dos integrantes]
+Integrantes: José Leonardo, Diogo
 Cena escolhida: Ambiente mobiliado em escala real
 
 Descrição da cena: Ambiente residencial em escala real no qual o usuário pode organizar e posicionar móveis e objetos em um espaço tridimensional.

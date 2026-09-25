@@ -1,9 +1,22 @@
 {
+  "name": "projeto_ra_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "three": "^0.185.1"
+    "three": "^0.186.1"
   },
   "devDependencies": {
-    "@types/three": "^0.185.4",
-    "@vitejs/plugin-basic-ssl": "^2.3.0"
+    "@types/three": "^0.186.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
   }
 }
